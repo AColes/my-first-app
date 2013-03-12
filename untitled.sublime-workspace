@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-style"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"package insla",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"SNIPPET ",
+				"Snippet: FILES['…']"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"syntax",
+				"Set Syntax: PHP"
+			],
+			[
+				"Snippet: ",
+				"Snippet: container-div"
+			],
+			[
+				"syntax coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"syntax blade",
+				"Set Syntax: Blade"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax mark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"syntax: javasc",
+				"Set Syntax: JavaScript (Rails)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/cpt/bundles/users/views/admin/list.blade.php",
+		"/var/www/cpt/bundles/booking/views/admin/edit.blade.php",
+		"/var/www/cpt/bundles/booking/controllers/admin.php",
+		"/var/www/cpt/bundles/booking/models/booking.php",
+		"/var/www/cpt/bundles/booking/views/admin/edit/places.blade.php",
+		"/var/www/cpt/bundles/booking/views/admin/edit/invoice.blade.php",
+		"/var/www/cpt/bundles/booking/views/admin/edit/payment.blade.php",
+		"/var/www/cpt/bundles/users/public/js/users.js",
+		"/var/www/cpt/bundles/booking/routes.php",
+		"/var/www/cpt/bundles/booking/views/admin/list_for_user.blade.php",
+		"/var/www/cpt/bundles/users/models/user.php",
+		"/var/www/cpt/public/bundles/tags/js/tags.js",
+		"/var/www/cpt/bundles/tags/views/admin/add.blade.php",
+		"/var/www/cpt/bundles/admin/views/common/sidebar.blade.php",
+		"/var/www/cpt/bundles/users/controllers/admin.php",
+		"/var/www/cpt/bundles/booking/views/detail.blade.php",
+		"/var/www/cpt/bundles/booking/views/places.blade.php",
+		"/var/www/cpt/bundles/booking/views/public/partials/summary.blade.php",
+		"/var/www/cpt/bundles/users/routes.php",
+		"/var/www/cpt/bundles/booking/views/place.blade.php",
+		"/var/www/cpt/bundles/booking/models/place.php",
+		"/var/www/cpt/bundles/venues/controllers/admin.php",
+		"/var/www/cpt/bundles/prices/libraries/calculate_price.php",
+		"/var/www/cpt/storage/views/fabc358e9c348cea0b6422551fe6a5b8",
+		"/var/www/cpt/bundles/admin/views/layouts/admin.blade.php",
+		"/var/www/cpt/bundles/admin/views/administrators/admin.blade.php",
+		"/var/www/cpt/bundles/admin/public/js/tbd-alert.js",
+		"/var/www/cpt/bundles/booking/views/admin/list.blade.php",
+		"/var/www/cpt/bundles/booking/controllers/public/confirm.php",
+		"/var/www/cpt/bundles/booking/controllers/public/payment.php",
+		"/var/www/cpt/bundles/booking/controllers/public/done.php",
+		"/var/www/roz/sites/all/themes/roz_960/node-roz_home.tpl.php",
+		"/var/www/roz/sites/all/themes/roz_960/rozana.css",
+		"/var/www/roz/sites/all/themes/roz_960/page.tpl.php",
+		"/var/www/roz/sites/all/themes/roz_960/node-roz_parties.tpl.php",
+		"/var/www/roz/sites/all/themes/roz_960/roz-parties.css",
+		"/var/www/roz/sites/all/themes/roz_960/node-roz_gallery.tpl.php",
+		"/var/www/roz/sites/all/themes/roz_960/node-roz-parties.php",
+		"/var/www/dbcm/sites/default/settings.php",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/library/newsflash.php",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/library/class_pages.php",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/library/school_roles.php",
+		"/etc/hosts",
+		"/etc/apache2/sites-available/cpt.dev",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/functions.php",
+		"/var/www/cpt/bundles/events/controllers/public.php",
+		"/var/www/cpt/bundles/speakers/views/public/list.blade.php",
+		"/var/www/cpt/bundles/events/views/admin/events/edit/speakers.blade.php",
+		"/var/www/cpt/bundles/events/controllers/admin.php",
+		"/var/www/cpt/bundles/booking/views/public/confirm.blade.php",
+		"/var/www/cpt/bundles/events/migrations/2013_03_04_121011_add_speakertitle_to_events_table.php",
+		"/var/www/cpt/bundles/events/views/public/event.blade.php",
+		"/var/www/roz/sites/default/settings.php",
+		"/var/www/roz/sites/all/modules/custom/menu_files/menu_files.module",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/library/featured_widget.php",
+		"/var/www/htsdev/wp-content/themes/holy-trinity-school/style.css",
+		"/var/www/htsdev/wp-includes/post-thumbnail-template.php",
+		"/var/www/cpt/bundles/events/models/schedule.php",
+		"/var/www/cpt/application/libraries/date_helpers.php",
+		"/var/www/cpt/bundles/booking/controllers/ajax.php",
+		"/var/www/cpt/bundles/events/views/admin/events/edit/docs.blade.php",
+		"/var/www/cpt/laravel/file.php",
+		"/var/www/cpt/bundles/events/views/admin/events/edit.blade.php",
+		"/var/www/cpt/bundles/contact/views/public.blade.php",
+		"/var/www/cpt/application/config/local/laravel-redirect.php",
+		"/var/www/cpt/bundles/events/models/eventdoc.php",
+		"/var/www/cpt/bundles/events/libraries/unique_eventdoc.php",
+		"/var/www/cpt/bundles/events/routes.php",
+		"/var/www/cpt/public/documents/AFP-WEB-SITE.pdf",
+		"/var/www/cpt/bundles/admin/routes.php",
+		"/var/www/cpt/bundles/admin/public/js/delete-modals.js",
+		"/var/www/cpt/bundles/events/views/admin/events/deleteeventdoc.blade.php",
+		"/var/www/cpt/bundles/events/public/js/eventdocs.js",
+		"/var/www/cpt/bundles/booking/libraries/booking.php",
+		"/var/www/cpt/bundles/booking/controllers/public/attendees.php",
+		"/var/www/cpt/bundles/booking/controllers/public/login.php",
+		"/var/www/cpt/bundles/events/public/css/edit.css",
+		"/var/www/cpt/public/bundles/events/js/eventdocs.js",
+		"/var/www/cpt/bundles/events/controllers/eventdoc.php",
+		"/var/www/cpt/bundles/events/models/event.php",
+		"/var/www/cpt/bundles/events/models/eventdocs.php",
+		"/var/www/cpt/bundles/events/migrations/2013_02_27_111450_create_eventdocs_table.php",
+		"/var/www/cpt/application/migrations/2013_02_27_111450_create_eventdocs_table.php",
+		"/var/www/cpt/bundles/events/views/admin/events/edit/documents.blade.php",
+		"/var/www/cpt/bundles/prices/views/admin/edit.blade.php",
+		"/var/www/df/sites/all/themes/df_zen/uc_order-adminplus.tpl.php",
+		"/var/www/df/sites/all/themes/rootcandy/uc_order-adminplus.tpl.php",
+		"/home/adrienne/clients/discovering futures/Feb 2013/DiscoveringFutures-Conference/index.html",
+		"/var/www/df/sites/all/modules/custom/invoice helper/inv_help.module",
+		"/var/www/df/sites/all/themes/df_zen/uc-order-adminplus.tpl.php",
+		"/var/www/df/sites/all/themes/df_zen/uc-order-admin.tpl.php",
+		"/var/www/df/sites/all/modules/contributed/ubercart/uc_order/templates/uc_order-customer.tpl.php",
+		"/var/www/df/sites/all/modules/contributed/ubercart/uc_order/uc_order.module",
+		"/var/www/df/sites/all/modules/contributed/ubercart/uc_order/uc_order.ca.inc",
+		"/var/www/df/sites/all/modules/contributed/ubercart/translations/uk.po",
+		"/var/www/df/sites/all/themes/df_zen/uc-order-admin-df.tpl.php",
+		"/var/www/df/sites/all/themes/rootcandy/uc-order-admin.tpl.php",
+		"/var/www/df/sites/all/modules/custom/conference_maintenance/prices_maint/dfprices.module",
+		"/var/www/df/sites/all/themes/rootcandy/uc-order-admin-df.tpl.php",
+		"/var/www/df/sites/all/themes/rootcandy/uc-order-df-admin.tpl.php",
+		"/var/www/df/sites/all/themes/df_zen/uc-order-df-admin.tpl.php",
+		"/var/www/df/sites/default/settings.php",
+		"/var/www/cpt/bundles/booking/views/public/partials/confirm_other.blade.php",
+		"/var/www/cpt/bundles/booking/public/css/bookings.css",
+		"/var/www/cpt/bundles/booking/public/js/confirm.js",
+		"/var/www/cpt/bundles/formly/formly.php",
+		"/var/www/cpt/bundles/booking/models/confirmother.php",
+		"/var/www/cpt/application/tasks/seed.php",
+		"/var/www/cpt/bundles/test/tasks/seed.php",
+		"/var/www/cpt/bundles/booking/migrations/2013_02_16_161458_create_confirmnother_table.php",
+		"/var/www/cpt/bundles/booking/public/js/attendees.js",
+		"/var/www/cpt/bundles/booking/views/public/partials/edit_place.blade.php",
+		"/var/www/cpt/bundles/booking/views/public/attendees.blade.php",
+		"/var/www/cpt/bundles/booking/migrations/2013_02_15_210514_add_otheremail_to_bookings_table.php",
+		"/var/www/cpt/application/migrations/2013_02_15_210514_add_otheremail_to_bookings_table.php",
+		"/var/www/cpt/bundles/booking/migrations/2013_02_15_205623_add_invoiceto_to_bookings_table.php",
+		"/var/www/cpt/bundles/booking/views/public/payment.blade.php",
+		"/var/www/cpt/bundles/booking/migrations/2013_02_15_161944_create_invoicetos_table.php",
+		"/var/www/cpt/bundles/booking/migrations/2013_02_15_161944_create_invoiceto_table.php",
+		"/var/www/cpt/bundles/booking/models/invoiceto.php",
+		"/var/www/cpt/bundles/booking/views/public/login.blade.php",
+		"/var/www/cpt/bundles/booking/views/public/done.blade.php",
+		"/var/www/cpt/bundles/test/start.php",
+		"/var/www/cpt/bundles/booking/start.php",
+		"/var/www/cpt/application/start.php",
+		"/var/www/cpt/bundles/booking/views/public/partials/graphic.blade.php",
+		"/var/www/cpt/bundles/events/controllers/ajax.php",
+		"/var/www/cpt/bundles/tags/public/js/tags.js"
+	],
+	"find":
+	{
+		"height": 55.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<project>",
+			"/var/www/csweb/wp-content/themes/cornerstone/custom-types",
+			"<project>",
+			"/var/www/cpt/bundles",
+			"<project>",
+			"/var/www/df/sites/all/modules/custom/bookings",
+			"<project>",
+			"/var/www/df/sites/all/modules/custom/bookings",
+			"<project>",
+			"/var/www/dev/hts/wp-content/themes/kuroi-wp-bootstrap",
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"list_for_user",
+			"title",
+			"ajax/tag/delete",
+			"URL::to('ajax",
+			"user.js",
+			"human",
+			"blade",
+			"View::make('",
+			"discounts_applied",
+			"Team Members",
+			"members",
+			"num_places",
+			"tbd",
+			"Coming Soon",
+			"Hosts_",
+			"'])->",
+			"Session::put('booking'",
+			"num_places",
+			"->event()",
+			"booking::public.partials.summary",
+			"summary",
+			"imagecache",
+			"prize-draw",
+			"overflow",
+			"body",
+			"$body",
+			"node-type-roz-page",
+			"gallery",
+			"NEWSFLASH",
+			"basename",
+			"get_the_time",
+			"human_time_diff",
+			"author",
+			"speakers",
+			"<input",
+			"take_away_menu_file",
+			"modify_on_site_pdf_links",
+			"get_pdf_thumb",
+			"convert_url_to_path",
+			"get_the_post_thumbnail",
+			">';\n",
+			"$args = array(",
+			"DateTime",
+			"book/ajax/book-check-email",
+			"<div id=\"message\"",
+			"function with",
+			"->with('message'",
+			"->with_error",
+			"error",
+			"alert-error",
+			"with('message'",
+			"message",
+			"dd",
+			"Event",
+			"session",
+			"url",
+			"Session",
+			"sessBooking",
+			"session",
+			"delete",
+			"order",
+			"sort",
+			"This scheduled event has been updated",
+			"To learn more about managing your orders on",
+			"uc_order_template_options",
+			"uc_order_action_email_invoice_form",
+			"uc_order_template_options",
+			"uc_invoice_templates",
+			"Purchasing Information",
+			"uc_invoice_templates",
+			"uc_order_template_options",
+			"Invoice template",
+			"Show all of the above plus the help text, email text, and store footer",
+			"Select the invoice template to use for this email",
+			"' Pricing'",
+			" Pricing",
+			"New Order",
+			"New Booking",
+			"New Booking at",
+			"required_other_fields_ok",
+			"remove",
+			"btn",
+			"console.log",
+			"update",
+			"Invoiceto",
+			"$pay_available",
+			"calculate_price",
+			"view::",
+			"cleaned up email (for hrefs",
+			"URL::",
+			"Edit Scheduled Event",
+			"delete",
+			"path",
+			"xpath",
+			"cleaned up email (for hrefs:",
+			"Edit Scheduled Event",
+			"cancel",
+			"AdminAuth.php",
+			"speakers-select.php",
+			"calculate_price",
+			"isnull",
+			"$.post",
+			"ajax/book-check-email",
+			"$.get(",
+			"ajax",
+			"remove",
+			"href",
+			"$user",
+			"Adrienne",
+			"$place",
+			"session as",
+			"session",
+			"isset",
+			"->with('",
+			"message",
+			"session",
+			"$form->hidden",
+			"events::public.list",
+			"session",
+			"put_",
+			"Book now to reserve your place",
+			"call_to_action",
+			"schedules/book",
+			"schedule/book",
+			"delete_event_prices",
+			"delete-modals",
+			"events/schedule/delete",
+			"function"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sublime.desktop"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"laravel/file.php"
+			],
+			[
+				"formly",
+				"bundles/formly/formly.php"
+			],
+			[
+				".js",
+				"bundles/tags/public/js/tags.js"
+			],
+			[
+				"session",
+				"laravel/session.php"
+			],
+			[
+				"libraries",
+				"application/libraries/pulldown_helpers.php"
+			],
+			[
+				".css",
+				"public/css/styles.css"
+			],
+			[
+				"former",
+				"bundles/former/src/Former/Former.php"
+			],
+			[
+				"form",
+				"laravel/form.php"
+			],
+			[
+				"bundleeventcontroller",
+				"bundles/events/controllers/admin.php"
+			],
+			[
+				"practicecontroll",
+				"bundles/practices/controllers/admin.php"
+			],
+			[
+				"speakertaskseed",
+				"cpt/bundles/speakers/tasks/seed.php"
+			],
+			[
+				"admin",
+				"cpt/bundles/admin/models/admin.php"
+			],
+			[
+				"speakersseed",
+				"cpt/bundles/speakers/tasks/seed.php"
+			],
+			[
+				"seed",
+				"laravel.dev/bundles/speakers/tasks/seed.php"
+			],
+			[
+				"php",
+				"laravel.dev/laravel/tests/phpunit.php"
+			],
+			[
+				"speakers",
+				"laravel.dev/application/migrations/2013_01_11_144116_create_speakers_table.php"
+			],
+			[
+				"models",
+				"cpt/application/models/.gitignore"
+			],
+			[
+				"snippet",
+				"laravel.dev/laravel/vendor/Symfony/Component/HttpFoundation/File/Exception/UnexpectedTypeException.php"
+			],
+			[
+				"view",
+				"laravel.dev/laravel/view.php"
+			],
+			[
+				"routes",
+				"laravel.dev/application/routes.php"
+			],
+			[
+				"viewshomeblade",
+				"laravel.dev/application/views/home/index.blade.php"
+			],
+			[
+				"configdatabase",
+				"laravel.dev/application/config/database.php"
+			],
+			[
+				"",
+				"laravel.dev/readme.md"
+			],
+			[
+				"database",
+				"cpt/laravel/database.php"
+			],
+			[
+				"paths",
+				"paths.php"
+			],
+			[
+				"install",
+				"laravel/documentation/install.md"
+			],
+			[
+				"style",
+				"public/laravel/css/style.css"
+			],
+			[
+				"css",
+				"public/laravel/css/style.css"
+			],
+			[
+				"bundles",
+				"application/bundles.php"
+			],
+			[
+				"viewsindexblade",
+				"application/views/home/index.blade.php"
+			],
+			[
+				"blade",
+				"laravel/tests/cases/blade.test.php"
+			],
+			[
+				"viewshome",
+				"laravel/tests/application/views/home/index.php"
+			],
+			[
+				"/routes",
+				"application/routes.php"
+			],
+			[
+				"views/home",
+				"application/views/home/index.blade.php"
+			],
+			[
+				"views/ind",
+				"application/views/home/index.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/adrienne/phonegap-workshop-master.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 424.0,
+	"status_bar_visible": true
+}
