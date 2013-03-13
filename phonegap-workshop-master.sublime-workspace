@@ -11,6 +11,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1018,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 348,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.xml",
+			"settings":
+			{
+				"buffer_size": 920,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -112,6 +136,7 @@
 	},
 	"file_history":
 	[
+		"/home/adrienne/mobile/phonegap-workshop-master/phonegap-workshop-master.sublime-project",
 		"/var/www/cpt/bundles/users/views/admin/list.blade.php",
 		"/var/www/cpt/bundles/booking/views/admin/edit.blade.php",
 		"/var/www/cpt/bundles/booking/controllers/admin.php",
@@ -238,8 +263,7 @@
 		"/var/www/cpt/bundles/booking/start.php",
 		"/var/www/cpt/application/start.php",
 		"/var/www/cpt/bundles/booking/views/public/partials/graphic.blade.php",
-		"/var/www/cpt/bundles/events/controllers/ajax.php",
-		"/var/www/cpt/bundles/tags/public/js/tags.js"
+		"/var/www/cpt/bundles/events/controllers/ajax.php"
 	],
 	"find":
 	{
@@ -414,8 +438,91 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 1018,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								880,
+								880
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 348,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.xml",
+					"settings":
+					{
+						"buffer_size": 920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								920,
+								920
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -619,6 +726,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 424.0,
+	"side_bar_width": 177.0,
 	"status_bar_visible": true
 }
