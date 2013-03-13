@@ -5,7 +5,6 @@ var EmployeeView = function(employee) {
 		this.el.on('click', '.add-location-btn', this.addLocation);
     };
  
-    this.initialize();
 
  	this.render = function() {
     	this.el.html(EmployeeView.template(employee));
@@ -21,9 +20,13 @@ var EmployeeView = function(employee) {
         	},
         	function() {
             	alert('Error getting location');
-        	});
-    		return false;
+        	}
+        );
+    	return false;
 	};	
+
+	this.initialize();
+
  }
  
 EmployeeView.template = Handlebars.compile($("#employee-tpl").html());
